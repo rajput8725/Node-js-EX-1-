@@ -1,0 +1,13 @@
+{
+  "name": "cli-employee-management",
+  "version": "1.0.0",
+  "description": "A simple Node.js CLI app to manage employees using in-memory arrays.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
